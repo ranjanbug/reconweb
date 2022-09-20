@@ -545,14 +545,6 @@ If you want to contribute to this project you can do it in multiple ways:
  
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png">](https://www.buymeacoffee.com/ranjanbug)
 
- 
-# Sponsors ❤️
-**This section shows the current financial sponsors of this project**  
- 
- 
-[<img src="https://pbs.twimg.com/profile_images/1360304248534282240/MomOFi40_400x400.jpg" width="100" height=auto>](https://github.com/0xtavian)
-
-# Thanks :pray:
 * Thank you for lending a helping hand towards the development of the project!
  
 - [Spyse](https://spyse.com/)
