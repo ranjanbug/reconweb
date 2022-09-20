@@ -24,9 +24,6 @@
   <a href="https://github.com/ranjanbug/reconweb/wiki">
     <img src="https://img.shields.io/badge/doc-wiki-blue.svg">
   </a>
-  <a href="https://t.me/joinchat/H5bAaw3YbzzmI5co">
-    <img src="https://img.shields.io/badge/telegram-@reconWEB-blue.svg">
-  </a>
   <a href="https://hub.docker.com/r/ranjanbug/reconweb">
     <img alt="Docker Cloud Build Status" src="https://img.shields.io/docker/cloud/build/ranjanbug/reconweb">
   </a>
