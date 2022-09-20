@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/ranjanbug/reconweb"><img src="https://github.com/ranjanbug/reconweb/blob/main/images/banner.png" alt="reconweb"></a>
   <br>
-  reconweb
+  ReconWEB
   <br>
 </h1>
 
